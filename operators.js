@@ -17,7 +17,7 @@ const operators = [
   {
     op: "get",
     description:
-      "if you want to get a contact datas, you should write this command: node contact-app id=<optional, contact id> name=<optional, name> phoneNumber=<optional, phone number>",
+      "if you want to get a contact datas, you should write this command: node contact-app get id=<optional, contact id> name=<optional, name> phoneNumber=<optional, phone number>",
   },
   {
     op: "help",
